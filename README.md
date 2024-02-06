@@ -1,0 +1,2 @@
+# custarchinstall
+aa archinstall bruh
